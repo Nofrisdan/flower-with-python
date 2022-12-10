@@ -1,5 +1,7 @@
 # Make A flower graphic using turtle on library python
 
+<img src="img/flower.png">
+
 # Quick Basic
 
 ## Clone repo
